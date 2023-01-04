@@ -1,2 +1,2 @@
 # Machine-learning-classiffication
-creating classification models
+creating a classification model with KNN in predicting the class of the growth either benign or malignant
